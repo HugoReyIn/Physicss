@@ -246,7 +246,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 142420120}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.45, y: 0.51, z: 0.37600005}
+  m_LocalPosition: {x: -0.45, y: 0.462, z: 0.37600005}
   m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -540,6 +540,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacles
       objectReference: {fileID: 0}
+    - target: {fileID: 1927322934635547392, guid: d184f133deb0fd749b357e27f78f38eb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacles
+      objectReference: {fileID: 0}
     - target: {fileID: 5146011305392445360, guid: d184f133deb0fd749b357e27f78f38eb, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -595,6 +599,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8747460685940621709, guid: cf7a3b0477a6acb408ba05956930ed24, type: 3}
       propertyPath: m_Name
+      value: Fence
+      objectReference: {fileID: 0}
+    - target: {fileID: 8747460685940621709, guid: cf7a3b0477a6acb408ba05956930ed24, type: 3}
+      propertyPath: m_TagString
       value: Fence
       objectReference: {fileID: 0}
     - target: {fileID: 8774137188855868629, guid: cf7a3b0477a6acb408ba05956930ed24, type: 3}
