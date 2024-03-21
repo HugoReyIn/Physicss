@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638460869384955469
-    m_Hash: 2891438559
+      ticks: 638466010601829138
+    m_Hash: 2584840489
   m_LockFileStatus:
     m_FilePath: C:/Users/hugo.rey/Documents/GitHub/Physicss/Physics/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638460869478135272
-    m_Hash: 3956890126
+      ticks: 638466010601839102
+    m_Hash: 368091525
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3254,7 +3254,6 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.12.2
-    - 1.12.4
     compatible:
     - 1.4.2
     - 1.4.3
@@ -3270,7 +3269,6 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.12.2
-    - 1.12.4
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
